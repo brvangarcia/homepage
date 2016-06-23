@@ -1,0 +1,42 @@
+.image {
+	background-image: no-repeat;
+
+}
+
+h2 span { 
+	text-align: center;
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+
+}
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
